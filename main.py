@@ -1,10 +1,7 @@
-## ---------------------------- ##
-##
-## Example student submission code for autonomous driving challenge.
-## You must modify the train and predict methods and the NeuralNetwork class. 
-## 
-## ---------------------------- ##
-
+'''
+Author: Pratik kulkarni
+Email: pratikkulkarni228@gmail.com
+'''
 import numpy as np
 import cv2
 from tqdm import tqdm
